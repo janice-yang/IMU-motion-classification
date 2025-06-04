@@ -1,0 +1,5 @@
+train/*
+test/*
+test_HARTH/*
+simulated/*
+!.gitignore
