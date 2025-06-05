@@ -1,5 +1,4 @@
-train/*
-test/*
+*.xlsx
 test_HARTH/*
 simulated/*
 !.gitignore
