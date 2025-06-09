@@ -1,5 +1,5 @@
 # Classification of human motion using a CNN-LSTM learning model
-Submission for the 2025 MathWorks AI Challenge - Human Motion Recognition Using IMUs, July 2025, by Jie Yang. This work served as a personal interest and training project, and was not funded or sponsored.
+Submission for the 2025 MathWorks AI Challenge - Human Motion Recognition Using IMUs, July 2025, by Jie Yang. This work is a personal interest and training project, and was not funded or sponsored.
 
 ## CNN-LSTM model trained on the UCI HAR dataset
 
